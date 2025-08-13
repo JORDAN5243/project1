@@ -10,3 +10,13 @@
   height: 250px;
   object-fit: cover;
 }
+.link-footer {
+  text-decoration: none;
+  color: black;
+}
+.dastresi-link {
+  display: block;
+  text-decoration: none;
+  color: rgb(230, 58, 5);
+  margin-top: 16px;
+}
