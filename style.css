@@ -1,1 +1,12 @@
-
+.bgf-secondary {
+  background-color: rgb(232, 230, 230) !important;
+}
+.banner {
+  height: 500px !important;
+  object-fit: cover;
+  width: 100%;
+}
+.card-img-top {
+  height: 250px;
+  object-fit: cover;
+}
