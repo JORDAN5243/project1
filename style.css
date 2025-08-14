@@ -20,3 +20,20 @@
   color: rgb(230, 58, 5);
   margin-top: 16px;
 }
+.search-input {
+  width: 75%;
+  border: none;
+  border-radius: 3px;
+  padding: 7px;
+}
+.search-icon {
+  width: 20px;
+  left: 28%;
+  top: 2%;
+  transform: translateY(-50%);
+  pointer-events: none;
+}
+.more-link {
+  font-size: 19px;
+  color: rgb(1, 90, 255);
+}
